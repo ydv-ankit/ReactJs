@@ -1,8 +1,8 @@
 import React from 'react'
-import Counter from './questions/Counter'
+import Card from './questions/Card'
 
 export default function App() {
   return (
-    <Counter/>
+    <Card/>
   )
 }
